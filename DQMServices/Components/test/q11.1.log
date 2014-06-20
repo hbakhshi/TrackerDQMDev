@@ -1,0 +1,2265 @@
+globaltag = PRE_62_V8::All
+271 DQMStore::DQMStore 
+10-Nov-2013 18:08:32 CET  Initiating request to open file file:test_11_a_1_RAW2DIGI_RECO_DQM.root
+10-Nov-2013 18:08:33 CET  Successfully opened file file:test_11_a_1_RAW2DIGI_RECO_DQM.root
+%MSG-w QTestConfigure:  QualityTester:siStripQTester@ctor  10-Nov-2013 18:08:33 CET pre-events
+Warning, using default value for parameter minEntries with default_value: 0
+%MSG
+%MSG-w QTestConfigure:  QualityTester:siStripQTester@ctor  10-Nov-2013 18:08:33 CET pre-events
+Warning, using default value for parameter minEntries with default_value: 0
+%MSG
+%MSG-w QTestConfigure:  QualityTester:siStripQTester@ctor  10-Nov-2013 18:08:33 CET pre-events
+Warning, using default value for parameter minEntries with default_value: 0
+%MSG
+ DQMFileSaver: storing EventInfo folders for Run: 165633, Lumi Section: 346, Subsystems: FED  HLT  Info  MessageLogger  Pixel  SiStrip  Tracking  
+%MSG-e DQMGenericClient:  DQMGenericClient:hltMuonEfficiencies@endRun  10-Nov-2013 18:09:19 CET End Run: 165633
+ DQMGenericClient::findAllSubdirectories ==> Missing folder HLT/Muon !!!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_Matched/PFJetMatchingEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_Matched/hpsPFTauProducerMatched_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_Matched/PFJetMatchingEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_Matched/hpsPFTauProducerMatched_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_Matched/PFJetMatchingEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_Matched/hpsPFTauProducerMatched_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_Matched/PFJetMatchingEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_Matched/hpsPFTauProducerMatched_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/PFJetMatchingEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/hpsPFTauProducerMatched_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/PFJetMatchingEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/hpsPFTauProducerMatched_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/PFJetMatchingEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/hpsPFTauProducerMatched_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/PFJetMatchingEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_Matched/hpsPFTauProducerMatched_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealElectronsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealElectronsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealElectronsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/DecayModeFindingEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByDecayModeFinding/hpsPFTauDiscriminationByDecayModeFinding_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/LooseChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseChargedIsolation/hpsPFTauDiscriminationByLooseChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/LooseCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByLooseCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/LooseElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseElectronRejection/hpsPFTauDiscriminationByLooseElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/LooseIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseIsolation/hpsPFTauDiscriminationByLooseIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/LooseMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByLooseMuonRejection/hpsPFTauDiscriminationByLooseMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/MVAElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMVAElectronRejection/hpsPFTauDiscriminationByMVAElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/PFJetMatchingEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/hpsPFTauProducerMatched_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/PFJetMatchingEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/hpsPFTauProducerMatched_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/PFJetMatchingEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/hpsPFTauProducerMatched_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/PFJetMatchingEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_Matched/hpsPFTauProducerMatched_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/MediumCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByMediumCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/MediumElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumElectronRejection/hpsPFTauDiscriminationByMediumElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/MediumMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByMediumMuonRejection/hpsPFTauDiscriminationByMediumMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/TightChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightChargedIsolation/hpsPFTauDiscriminationByTightChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/TightCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByTightCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/TightElectronRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightElectronRejection/hpsPFTauDiscriminationByTightElectronRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/TightMuonRejectionEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByTightMuonRejection/hpsPFTauDiscriminationByTightMuonRejection_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/VLooseChargedIsolationEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseChargedIsolation/hpsPFTauDiscriminationByVLooseChargedIsolation_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffpt !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_ptTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffeta !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_etaTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffphi !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_phiTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+ Failed to produce efficiency histogram = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/VLooseCombinedIsolationDBSumPtCorrEffpileup !!
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  numerator = RecoTauV/hpsPFTauProducerRealMuonsData_hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr/hpsPFTauDiscriminationByVLooseCombinedIsolationDBSumPtCorr_vs_pileupTauVisible does not exist.
+%MSG
+%MSG-e endRun:  TauDQMHistEffProducer:efficienciesRealMuonsData@endRun  10-Nov-2013 18:09:29 CET End Run: 165633
+  denominator = RecoTauV/hpsPFTauProducerRealMuonsData_ReferenceCollection/nRef_Taus_vs_pileupTauVisible does not exist.
+%MSG
+
+===========================================================================================
+[DQMStoreStats::calcstats] -- Dumping stats results FOR ALL ME
+===========================================================================================
+
+------------------------------------------------------------------------------------------
+Configuration:
+------------------------------------------------------------------------------------------
+ > running on run end.
+ > pathNameMatch = "*"
+
+------------------------------------------------------------------------------------------
+Top level folder tree:
+------------------------------------------------------------------------------------------
+DQM (subsystem)
+  |--> TimerService (subfolder)
+DT (subsystem)
+  |--> 00-DataIntegrity (subfolder)
+  |--> EventInfo (subfolder)
+  |--> FEDIntegrity (subfolder)
+FED (subsystem)
+  |--> EventInfo (subfolder)
+  |--> FEDIntegrity (subfolder)
+HLT (subsystem)
+  |--> EgOffline (subfolder)
+  |--> EventInfo (subfolder)
+Info (subsystem)
+  |--> CMSSWInfo (subfolder)
+  |--> EventInfo (subfolder)
+  |--> ProvInfo (subfolder)
+Pixel (subsystem)
+  |--> AdditionalPixelErrors (subfolder)
+  |--> Barrel (subfolder)
+  |--> Endcap (subfolder)
+  |--> EventInfo (subfolder)
+  |--> Tracks (subfolder)
+Reference (subsystem)
+  |--> Egamma (subfolder)
+  |--> Physics (subfolder)
+  |--> SiStrip (subfolder)
+  |--> Tracking (subfolder)
+SiStrip (subsystem)
+  |--> EventInfo (subfolder)
+  |--> FEDIntegrity (subfolder)
+  |--> MechanicalView (subfolder)
+  |--> ReadoutView (subfolder)
+  |--> TIB (subfolder)
+  |--> TID (subfolder)
+Tracking (subsystem)
+  |--> EventInfo (subfolder)
+  |--> MessageLog (subfolder)
+  |--> TrackParameters (subfolder)
+  |--> dEdx (subfolder)
+
+------------------------------------------------------------------------------------------
+Detailed ressource usage information FOR ALL ME
+------------------------------------------------------------------------------------------
+subsystem/folder                          histograms       bins        Empty bins     Empty/Total      bins per       MB         kB per
+                                           (total)        (total)        (total)                      histogram     (total)    histogram  
+------------------------------------------------------------------------------------------
+DQM
+ -> TimerService                              43         30441         28574         0.939           708         0.183          4.36
+    SUBSYSTEM TOTAL                           43         30441         28574         0.939           708         0.187          4.36
+..........................................................................................
+DT
+ -> 00-DataIntegrity                         152         43340          9557         0.221           285         0.165          1.11
+ -> EventInfo                                  0             0             0          -nan             -             0             -
+ -> FEDIntegrity                               3            30            30             1            10      0.000114        0.0391
+    SUBSYSTEM TOTAL                          155         43370          9587         0.221           280         0.169          1.09
+..........................................................................................
+FED
+ -> EventInfo                                  1            10             3           0.3            10      3.81e-05        0.0391
+ -> FEDIntegrity                               3          2550          2550             1           850       0.00973          3.32
+    SUBSYSTEM TOTAL                            4          2560          2553         0.997           640          0.01           2.5
+..........................................................................................
+HLT
+ -> EgOffline                                  1           106            11         0.104           106      0.000404         0.414
+ -> EventInfo                                  4            24            18          0.75             6      9.16e-05        0.0234
+    SUBSYSTEM TOTAL                            5           130            29         0.223            26      0.000508         0.102
+..........................................................................................
+Info
+ -> CMSSWInfo                                  0             0             0          -nan             -             0             -
+ -> EventInfo                                  2          9022           372        0.0412      4.51e+03        0.0344          17.6
+ -> ProvInfo                                   0             0             0          -nan             -             0             -
+    SUBSYSTEM TOTAL                            2          9022           372        0.0412      4.51e+03        0.0352          17.6
+..........................................................................................
+Pixel
+ -> AdditionalPixelErrors                      3          3800           215        0.0566      1.27e+03        0.0145          4.95
+ -> Barrel                                     3           192            54         0.281            64      0.000732          0.25
+ -> Endcap                                     4            96           100          1.04            24      0.000366        0.0938
+ -> EventInfo                                  1            14             4         0.286            14      5.34e-05        0.0547
+ -> Tracks                                     0             0             0          -nan             -             0             -
+    SUBSYSTEM TOTAL                           11          4102           373        0.0909           373         0.016          1.46
+..........................................................................................
+Reference
+ -> Egamma                                   236        769924         52826        0.0686      3.26e+03          3.08          13.3
+ -> Physics                                   79          4596          3578         0.779          58.2        0.0175         0.227
+ -> SiStrip                                   66         12750          2974         0.233           193        0.0486         0.755
+ -> Tracking                                   6           506           191         0.377          84.3       0.00193         0.329
+    SUBSYSTEM TOTAL                          387        787776         59569        0.0756      2.04e+03          3.22          8.32
+..........................................................................................
+SiStrip
+ -> EventInfo                                  1            54             7          0.13            54      0.000206         0.211
+ -> FEDIntegrity                               3          1320          1320             1           440       0.00504          1.72
+ -> MechanicalView                           856        319825         69551         0.217           374           2.1          2.51
+ -> ReadoutView                               41        100539         16179         0.161      2.45e+03           0.4          9.98
+ -> TIB                                    25610       6422182       6217930         0.968           251            32          1.28
+ -> TID                                     8040       2068824       1971317         0.953           257          10.2          1.31
+    SUBSYSTEM TOTAL                        34551       8912744       8276304         0.929           258          45.8          1.33
+..........................................................................................
+Tracking
+ -> EventInfo                                  1             3             3             1             3      1.14e-05        0.0117
+ -> MessageLog                                 5           106            50         0.472          21.2      0.000404        0.0828
+ -> TrackParameters                          163       1258355         22755        0.0181      7.72e+03          4.85          30.5
+ -> dEdx                                      15          1023           934         0.913          68.2        0.0039         0.266
+    SUBSYSTEM TOTAL                          184       1259487         23742        0.0189      6.85e+03          4.97            27
+..........................................................................................
+
+------------------------------------------------------------------------------------------
+Grand total FOR ALL ME:
+------------------------------------------------------------------------------------------
+Number of subsystems: 9
+Total number of histograms: 35342 with: 11049632 bins alltogether
+Total memory occupied by histograms (excl. overhead): 54.4 MB
+
+===========================================================================================
+[DQMStoreStats::calcstats] -- End of output FOR ALL ME.
+===========================================================================================
+
+
+===========================================================================================
+[DQMStoreStats::calcstats] -- Dumping stats results FOR LUMI PRODUCTS ONLY
+===========================================================================================
+
+------------------------------------------------------------------------------------------
+Configuration:
+------------------------------------------------------------------------------------------
+ > running on run end.
+ > pathNameMatch = "*"
+
+------------------------------------------------------------------------------------------
+Top level folder tree:
+------------------------------------------------------------------------------------------
+SiStrip (subsystem)
+  |--> ReadoutView (subfolder)
+Tracking (subsystem)
+  |--> TrackParameters (subfolder)
+
+------------------------------------------------------------------------------------------
+Detailed ressource usage information FOR LUMI PRODUCTS ONLY
+------------------------------------------------------------------------------------------
+subsystem/folder                          histograms       bins        Empty bins     Empty/Total      bins per       MB         kB per
+                                           (total)        (total)        (total)                      histogram     (total)    histogram  
+------------------------------------------------------------------------------------------
+SiStrip
+ -> ReadoutView                                1             6             1         0.167             6      2.29e-05        0.0234
+    SUBSYSTEM TOTAL                            1             6             1         0.167             6      2.34e-05        0.0234
+..........................................................................................
+Tracking
+ -> TrackParameters                            6           980           906         0.924           163       0.00374         0.638
+    SUBSYSTEM TOTAL                            6           980           906         0.924           163       0.00383         0.638
+..........................................................................................
+
+------------------------------------------------------------------------------------------
+Grand total FOR LUMI PRODUCTS ONLY:
+------------------------------------------------------------------------------------------
+Number of subsystems: 2
+Total number of histograms: 7 with: 986 bins alltogether
+Total memory occupied by histograms (excl. overhead): 0.00385 MB
+
+===========================================================================================
+[DQMStoreStats::calcstats] -- End of output FOR LUMI PRODUCTS ONLY.
+===========================================================================================
+
+
+------------------------------------------------------------------------------------------
+Memory profile:
+------------------------------------------------------------------------------------------
+Approx. maximum total virtual memory size of job: (could not be determined)
+
+
+10-Nov-2013 18:09:38 CET  Closed file file:test_11_a_1_RAW2DIGI_RECO_DQM.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 0 passed = 0 failed = 0
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0          0          0          0          0 edmtome_step
+TrigReport     1    1          0          0          0          0 DQMHarvestCommonSiStripZeroBias_step
+TrigReport     1    2          0          0          0          0 dqmsave_step
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     0    0          0          0          0          0 stats
+
+TrigReport ---------- Modules in Path: edmtome_step ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0          0          0          0          0 EDMtoMEConverter
+
+TrigReport ---------- Modules in Path: DQMHarvestCommonSiStripZeroBias_step ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1          0          0          0          0 dqmRefHistoRootFileGetter
+TrigReport     1    1          0          0          0          0 DQMMessageLoggerClient
+TrigReport     1    1          0          0          0          0 dqmMessageLoggerQTester
+TrigReport     1    1          0          0          0          0 dqmDcsInfoClient
+TrigReport     1    1          0          0          0          0 siStripQTester
+TrigReport     1    1          0          0          0          0 siStripOfflineAnalyser
+TrigReport     1    1          0          0          0          0 sipixelQTester
+TrigReport     1    1          0          0          0          0 sipixelEDAClient
+TrigReport     1    1          0          0          0          0 egHLTOffDQMClient
+TrigReport     1    1          0          0          0          0 hltMuonEfficiencies
+TrigReport     1    1          0          0          0          0 jetMETHLTOfflineClient
+TrigReport     1    1          0          0          0          0 HLTTauPostAnalysis_PFTaus
+TrigReport     1    1          0          0          0          0 HLTTauPostAnalysis_Inclusive
+TrigReport     1    1          0          0          0          0 qTesterMuonHLT
+TrigReport     1    1          0          0          0          0 muonHLTCertSummary
+TrigReport     1    1          0          0          0          0 egHLTOffQTester
+TrigReport     1    1          0          0          0          0 egHLTOffDQMSummaryClient
+TrigReport     1    1          0          0          0          0 HLTOverallSummary
+TrigReport     1    1          0          0          0          0 hltTauOfflineCertification
+TrigReport     1    1          0          0          0          0 HLTOverallSummary
+TrigReport     1    1          0          0          0          0 hltInclusiveVBFClient
+TrigReport     1    1          0          0          0          0 dqmFEDIntegrity
+TrigReport     1    1          0          0          0          0 dqmQTestDQMFED
+TrigReport     1    1          0          0          0          0 AlcaBeamMonitorClient
+TrigReport     1    1          0          0          0          0 efficienciesRealData
+TrigReport     1    1          0          0          0          0 efficienciesRealElectronsData
+TrigReport     1    1          0          0          0          0 efficienciesRealMuonsData
+TrigReport     1    1          0          0          0          0 normalizePlotsRealMuonsData
+
+TrigReport ---------- Modules in Path: dqmsave_step ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    2          0          0          0          0 dqmSaver
+
+TrigReport ------ Modules in End-Path: stats ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     0    0          0          0          0          0 dqmStoreStats
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport          0          0          0          0          0 EDMtoMEConverter
+TrigReport          0          0          0          0          0 dqmRefHistoRootFileGetter
+TrigReport          0          0          0          0          0 DQMMessageLoggerClient
+TrigReport          0          0          0          0          0 dqmMessageLoggerQTester
+TrigReport          0          0          0          0          0 dqmDcsInfoClient
+TrigReport          0          0          0          0          0 siStripQTester
+TrigReport          0          0          0          0          0 siStripOfflineAnalyser
+TrigReport          0          0          0          0          0 sipixelQTester
+TrigReport          0          0          0          0          0 sipixelEDAClient
+TrigReport          0          0          0          0          0 egHLTOffDQMClient
+TrigReport          0          0          0          0          0 hltMuonEfficiencies
+TrigReport          0          0          0          0          0 jetMETHLTOfflineClient
+TrigReport          0          0          0          0          0 HLTTauPostAnalysis_PFTaus
+TrigReport          0          0          0          0          0 HLTTauPostAnalysis_Inclusive
+TrigReport          0          0          0          0          0 qTesterMuonHLT
+TrigReport          0          0          0          0          0 muonHLTCertSummary
+TrigReport          0          0          0          0          0 egHLTOffQTester
+TrigReport          0          0          0          0          0 egHLTOffDQMSummaryClient
+TrigReport          0          0          0          0          0 HLTOverallSummary
+TrigReport          0          0          0          0          0 hltTauOfflineCertification
+TrigReport          0          0          0          0          0 hltInclusiveVBFClient
+TrigReport          0          0          0          0          0 dqmFEDIntegrity
+TrigReport          0          0          0          0          0 dqmQTestDQMFED
+TrigReport          0          0          0          0          0 AlcaBeamMonitorClient
+TrigReport          0          0          0          0          0 efficienciesRealData
+TrigReport          0          0          0          0          0 efficienciesRealElectronsData
+TrigReport          0          0          0          0          0 efficienciesRealMuonsData
+TrigReport          0          0          0          0          0 normalizePlotsRealMuonsData
+TrigReport          0          0          0          0          0 dqmSaver
+TrigReport          0          0          0          0          0 TriggerResults
+TrigReport          0          0          0          0          0 dqmStoreStats
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.000000 Real/event = 0.000000
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000 edmtome_step
+TimeReport   0.000000   0.000000   0.000000   0.000000 DQMHarvestCommonSiStripZeroBias_step
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmsave_step
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000 stats
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: edmtome_step ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000 EDMtoMEConverter
+
+TimeReport ---------- Modules in Path: DQMHarvestCommonSiStripZeroBias_step ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmRefHistoRootFileGetter
+TimeReport   0.000000   0.000000   0.000000   0.000000 DQMMessageLoggerClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmMessageLoggerQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmDcsInfoClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 siStripQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000 siStripOfflineAnalyser
+TimeReport   0.000000   0.000000   0.000000   0.000000 sipixelQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000 sipixelEDAClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 egHLTOffDQMClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 hltMuonEfficiencies
+TimeReport   0.000000   0.000000   0.000000   0.000000 jetMETHLTOfflineClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 HLTTauPostAnalysis_PFTaus
+TimeReport   0.000000   0.000000   0.000000   0.000000 HLTTauPostAnalysis_Inclusive
+TimeReport   0.000000   0.000000   0.000000   0.000000 qTesterMuonHLT
+TimeReport   0.000000   0.000000   0.000000   0.000000 muonHLTCertSummary
+TimeReport   0.000000   0.000000   0.000000   0.000000 egHLTOffQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000 egHLTOffDQMSummaryClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 HLTOverallSummary
+TimeReport   0.000000   0.000000   0.000000   0.000000 hltTauOfflineCertification
+TimeReport   0.000000   0.000000   0.000000   0.000000 HLTOverallSummary
+TimeReport   0.000000   0.000000   0.000000   0.000000 hltInclusiveVBFClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmFEDIntegrity
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmQTestDQMFED
+TimeReport   0.000000   0.000000   0.000000   0.000000 AlcaBeamMonitorClient
+TimeReport   0.000000   0.000000   0.000000   0.000000 efficienciesRealData
+TimeReport   0.000000   0.000000   0.000000   0.000000 efficienciesRealElectronsData
+TimeReport   0.000000   0.000000   0.000000   0.000000 efficienciesRealMuonsData
+TimeReport   0.000000   0.000000   0.000000   0.000000 normalizePlotsRealMuonsData
+
+TimeReport ---------- Modules in Path: dqmsave_step ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmSaver
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ------ Modules in End-Path: stats ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000 dqmStoreStats
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 EDMtoMEConverter
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 dqmRefHistoRootFileGetter
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 DQMMessageLoggerClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 dqmMessageLoggerQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 dqmDcsInfoClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 siStripQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 siStripOfflineAnalyser
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 sipixelQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 sipixelEDAClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 egHLTOffDQMClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 hltMuonEfficiencies
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 jetMETHLTOfflineClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 HLTTauPostAnalysis_PFTaus
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 HLTTauPostAnalysis_Inclusive
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 qTesterMuonHLT
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 muonHLTCertSummary
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 egHLTOffQTester
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 egHLTOffDQMSummaryClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 HLTOverallSummary
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 hltTauOfflineCertification
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 hltInclusiveVBFClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 dqmFEDIntegrity
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 dqmQTestDQMFED
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 AlcaBeamMonitorClient
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 efficienciesRealData
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 efficienciesRealElectronsData
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 efficienciesRealMuonsData
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 normalizePlotsRealMuonsData
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 dqmSaver
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 TriggerResults
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 dqmStoreStats
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 QTestConfigure       -w QualityTester:si                       3        3
+    2 DQMGenericClient     -e DQMGenericClient                       1        1
+    3 endRun               -e TauDQMHistEffPro                     204      204
+    4 endRun               -e TauDQMHistEffPro                     204      204
+    5 endRun               -e TauDQMHistEffPro                     204      204
+    6 fileAction           -s file_close                             1        1
+    7 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 QTestConfigure       pre-events       pre-events       pre-events
+    2 DQMGenericClient     End Run: 165633                   
+    3 endRun               End Run: 165633  End Run: 165633  End Run: 165633
+    4 endRun               End Run: 165633  End Run: 165633  End Run: 165633
+    5 endRun               End Run: 165633  End Run: 165633  End Run: 165633
+    6 fileAction           PostEndRun                        
+    7 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                 3                   3
+Error                 613                 613
+System                  3                   3

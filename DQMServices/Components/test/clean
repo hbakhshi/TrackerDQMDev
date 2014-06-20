@@ -1,0 +1,1 @@
+rm -rf *.root test_11_* FrameworkJobReport_11_* p11.1.log q11.1.log dqm-bin-stats.sql 
